@@ -1,4 +1,8 @@
-AUTHOR-AUTHORED MATERIALS: COPYRIGHT RESERVED PENDING AUTHOR LICENCE SELECTION.
-This local candidate does not itself authorise public redistribution of the author's code, derived data or figures. Proposed choices for author approval: MIT for original application scripts, CC BY 4.0 for original derived tables and figures. No such grant is made here.
+Component-specific licensing
 
-THIRD-PARTY MATERIAL: the modified PyCUFSM 0.2.0 sources retain their upstream Academic Free License 3.0. See vendor/LICENSE_PYCUFSM_AFL3.txt and vendor/pycufsm_0.2.0_modifications.patch. The author's licence choice cannot replace those terms.
+Copyright (c) 2026 Lijian Ren for original material.
+
+Original application scripts, configuration and Abaqus input decks are licensed under the MIT License (LICENSES/MIT.txt).
+Original derived numerical tables, result metadata, figures and documentation are licensed under Creative Commons Attribution 4.0 International (LICENSES/CC-BY-4.0.txt).
+The modified PyCUFSM 0.2.0 sources retain their upstream Academic Free License 3.0 (vendor/LICENSE_PYCUFSM_AFL3.txt). The MIT grant does not replace the upstream licence. See THIRD_PARTY_NOTICES.md and the vendored-source modification diff.
+Third-party raw data, publisher PDFs and commercial software are excluded. No licence to excluded third-party material is granted.

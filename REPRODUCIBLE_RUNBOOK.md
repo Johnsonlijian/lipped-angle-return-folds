@@ -9,7 +9,7 @@ Use CPython 3.11, NumPy 2.4.3 and SciPy 1.17.1; install requirements.txt into an
 5. Each gmnia/<case>/ contains the exact S4R input, model metadata and extracted result JSON. To rerun a case, copy its .inp to a working directory and use your licensed Abaqus command with job=<input stem> interactive. The portable gmnia.py generator accepts ABAQUS_COMMAND for its executable and creates a local gmnia_runs/ directory. Original vendor solver and own derived data are separate from commercial executable files.
 6. Resolved peaks: 43/48; baseline peak statistics: 33 cases. Five maximum-attained-load observations are lower bounds and cannot be pooled as resolved ultimate strengths. Read the post_peak flag before comparing ratios or mode shares. P_lip measures spatial displacement, not a formal nonlinear local/distortional class.
 
-Expensive Abaqus jobs are not rerun by the lightweight QA. Script execution reproduces the saved numerical summaries but does not independently validate physical truth or experimental applicability. Author approval and repository deposit remain required before calling this a public archive.
+Expensive Abaqus jobs are not rerun by the lightweight QA. Script execution reproduces the saved numerical summaries but does not independently validate physical truth or experimental applicability. Public release was authorised by the author on 12 November 2026. The archive does not establish experimental validity or journal acceptance.
 
 ## Independent elastic shell evidence
 

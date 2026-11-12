@@ -1,9 +1,18 @@
 cff-version: 1.2.0
-message: "Cite this computational archive after its author-approved release."
+message: "Please cite this computational archive when reusing its code or derived outputs."
 title: "Lipped-angle return-fold mode exchange: computational archive"
 type: software
-version: "2026.11.12"
+version: "1.0.0"
+doi: "10.5281/zenodo.24154606"
+date-released: "2026-11-12"
+url: "https://github.com/Johnsonlijian/lipped-angle-return-folds"
+repository-code: "https://github.com/Johnsonlijian/lipped-angle-return-folds"
 authors:
   - family-names: Ren
     given-names: Lijian
-abstract: "Local deposit candidate; no public release or associated article publication is claimed."
+    affiliation: "School of Civil Engineering, Inner Mongolia University of Technology; Inner Mongolia Autonomous Region Key Laboratory of Green Construction and Intelligent Operation and Maintenance of Civil Engineering"
+license:
+  - MIT
+  - CC-BY-4.0
+  - AFL-3.0
+abstract: "Reproducible elastic-buckling, direct-strength screening and nonlinear shell-analysis inputs and derived results for long-lip angles with return folds. Associated manuscript publication or acceptance is not claimed."
