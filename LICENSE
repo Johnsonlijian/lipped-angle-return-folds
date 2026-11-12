@@ -1,0 +1,4 @@
+AUTHOR-AUTHORED MATERIALS: COPYRIGHT RESERVED PENDING AUTHOR LICENCE SELECTION.
+This local candidate does not itself authorise public redistribution of the author's code, derived data or figures. Proposed choices for author approval: MIT for original application scripts, CC BY 4.0 for original derived tables and figures. No such grant is made here.
+
+THIRD-PARTY MATERIAL: the modified PyCUFSM 0.2.0 sources retain their upstream Academic Free License 3.0. See vendor/LICENSE_PYCUFSM_AFL3.txt and vendor/pycufsm_0.2.0_modifications.patch. The author's licence choice cannot replace those terms.

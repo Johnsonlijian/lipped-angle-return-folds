@@ -1,0 +1,23 @@
+[
+  {
+    "s": 0,
+    "min_principal_min": -1.0,
+    "min_principal_max": -1.0,
+    "max_principal_abs": 1.661287774012976e-11,
+    "samples": 10336
+  },
+  {
+    "s": 0.08,
+    "min_principal_min": -1.0,
+    "min_principal_max": -1.0,
+    "max_principal_abs": 3.812838933470175e-11,
+    "samples": 11424
+  },
+  {
+    "s": 0.5,
+    "min_principal_min": -1.0,
+    "min_principal_max": -1.0,
+    "max_principal_abs": 1.6612711206676067e-11,
+    "samples": 12512
+  }
+]

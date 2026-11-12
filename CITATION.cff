@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Cite this computational archive after its author-approved release."
+title: "Lipped-angle return-fold mode exchange: computational archive"
+type: software
+version: "2026.11.12"
+authors:
+  - family-names: Ren
+    given-names: Lijian
+abstract: "Local deposit candidate; no public release or associated article publication is claimed."

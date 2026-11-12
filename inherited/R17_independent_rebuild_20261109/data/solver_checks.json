@@ -1,0 +1,25 @@
+{
+  "plate_k": 4.000006532809754,
+  "diagnostics": [
+    {
+      "qz_relative_difference": 2.1380675008231265e-12,
+      "normalized_residual": 1.2603433424727677e-17
+    },
+    {
+      "qz_relative_difference": 3.6055602947726584e-12,
+      "normalized_residual": 1.1805031134166483e-17,
+      "rotation_eigenvalue_difference": 3.11972669919669e-14,
+      "rotation_participation_difference": 1.1546319456101628e-14
+    },
+    {
+      "qz_relative_difference": 1.4268586312482512e-12,
+      "normalized_residual": 1.8427025616385584e-17
+    },
+    {
+      "qz_relative_difference": 5.855316231873076e-13,
+      "normalized_residual": 1.735573315819287e-17,
+      "rotation_eigenvalue_difference": 1.1102230246251565e-15,
+      "rotation_participation_difference": 3.191891195797325e-16
+    }
+  ]
+}

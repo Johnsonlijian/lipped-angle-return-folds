@@ -1,0 +1,13 @@
+.env*
+__pycache__/
+*.pyc
+gmnia_runs/
+*.odb
+*.sim
+*.lck
+*.msg
+*.log
+rounds/
+logs/
+manuscript/
+*.docx

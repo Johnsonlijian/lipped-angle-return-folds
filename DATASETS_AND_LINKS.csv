@@ -1,0 +1,5 @@
+source,url,redistribution,derived_output
+PyCUFSM 0.2.0,https://pypi.org/project/pycufsm/0.2.0/,AFL-3.0 versioned wheel,vendor/
+Zhang et al. 2022,https://doi.org/10.3390/buildings12060712,original PDF and raw tables excluded,inherited numerical comparisons only
+Yao et al. 2022,https://doi.org/10.3390/buildings12111775,original PDF and raw test table excluded,data/yao2022_check.json derived spectra
+Author numerical campaign,local unreleased deposit candidate,author licence selection pending,data/ and gmnia/
